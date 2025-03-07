@@ -1,0 +1,3 @@
+"https://computerscience.unicam.it/organizzazione",
+"https://computerscience.unicam.it/people"
+        
